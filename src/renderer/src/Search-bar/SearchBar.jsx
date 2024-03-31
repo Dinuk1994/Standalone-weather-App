@@ -15,7 +15,7 @@ export default function SearchBar() {
             <div>
                 <TextField
                     id="standard-search"
-                    label="Search field"
+                    label="Enter City/Country"
                     type="search"
                     variant="standard"
                     
