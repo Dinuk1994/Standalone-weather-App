@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+}
+
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start; 
+    height: 100vh; 
+    margin-top: 25px;
+}
+
+
